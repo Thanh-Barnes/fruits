@@ -9,3 +9,5 @@
 - Grapes
 - Snake fruit
 - Longan
+- Custard apple
+- Persimmon
